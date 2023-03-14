@@ -1,0 +1,11 @@
+{
+  "pages": [
+    {
+      "pluralName": "hello-plugins",
+      "singularName": "hello-plugin",
+      "displayName": "Hello Plugin",
+      "slug": "hello-plugin",
+      "demoSections": [{ "slug": "hello-plugin-landing" }]
+    }
+  ]
+}

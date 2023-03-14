@@ -1,0 +1,32 @@
+{
+  "sections": [
+    {
+      "slug": "header",
+      "category": "layout",
+      "displayName": "Header",
+      "templates": ["header-1"],
+      "defaultTemplate": { "slug": "header-1" },
+      "position": "middle",
+      "collections": { "primary-menu-items": {} }
+    },
+    {
+      "slug": "footer",
+      "category": "layout",
+      "displayName": "Footer",
+      "templates": ["footer-1"],
+      "defaultTemplate": { "slug": "footer-1" },
+      "position": "middle",
+      "collections": {}
+    },
+    {
+      "slug": "hello-plugin-landing",
+      "category": "sections",
+      "displayName": "Hello Plugin Landing",
+      "attributes": { "heading": "Hello Plugin!" },
+      "templates": ["cover-1"],
+      "defaultTemplate": { "slug": "cover-1" },
+      "position": "middle",
+      "collections": {}
+    }
+  ]
+}

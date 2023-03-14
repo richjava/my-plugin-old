@@ -1,0 +1,13 @@
+{
+  "data": [
+    {
+      "id": "hello-plugin-GHIj51xbsU",
+      "attributes": {
+        "slug": "hello-plugin",
+        "label": "Hello Plugin",
+        "url": "/hello-plugin"
+      },
+      "status": "published"
+    }
+  ]
+}

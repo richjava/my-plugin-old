@@ -1,0 +1,11 @@
+{
+  "modules": [
+    {
+      "displayName": "Hello Plugin",
+      "slug": "hello-plugin",
+      "description": "Hello World for a plugin",
+      "moduleParts": [{ "slug": "hello-plugin-base" }],
+      "required": true
+    }
+  ]
+}
