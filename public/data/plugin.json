@@ -2,6 +2,7 @@
   "plugin": {
     "slug": "my-plugin-DYHhxo7Uv",
     "displayName": "My plugin",
-    "version": "1.0.0"
+    "version": "1.0.0",
+    "namespace": "richjava-my-plugin"
   }
 }
